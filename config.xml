@@ -30,8 +30,8 @@
         <icon density="xhdpi" src="res/android/icons/xhdpi.png" />
         <icon density="xxhdpi" src="res/android/icons/xxhdpi.png" />
         <icon density="xxxhdpi" src="res/android/icons/xxxhdpi.png" /> -->
-        <splash density="land-hdpi" src="res/android/splash/land-hdpi.png" height="400" width="550" />
-        <splash density="land-ldpi" src="res/android/splash/land-ldpi.png" height="400" width="550"/>
+        <splash density="land-hdpi" src="res/android/splash/land-hdpi.png" height="550" width="600" />
+        <splash density="land-ldpi" src="res/android/splash/land-ldpi.png" height="550" width="600"/>
         <!-- <splash density="land-mdpi" src="res/android/splash/land-mdpi.png" />
         <splash density="land-xhdpi" src="res/android/splash/land-xhdpi.png" />
         <splash density="land-xxhdpi" src="res/android/splash/land-xxhdpi.png" />

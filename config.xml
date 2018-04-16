@@ -24,13 +24,13 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <platform name="android">
-        <icon density="tbicon" src="res/android/icons/tbicon.png" />
+        <icon density="tbicon" src="res/android/icons/tbicon.png" width="80"/>
         <icon density="turqbiladi" src="res/android/icons/turqbiladi.png" />
         <!-- <icon density="hdpi" src="res/android/icons/hdpi.png" />
         <icon density="xhdpi" src="res/android/icons/xhdpi.png" />
         <icon density="xxhdpi" src="res/android/icons/xxhdpi.png" />
         <icon density="xxxhdpi" src="res/android/icons/xxxhdpi.png" /> -->
-        <splash density="land-hdpi" src="res/android/splash/land-hdpi.png" />
+        <splash density="land-hdpi" src="res/android/splash/land-hdpi.png" width="80"/>
         <splash density="land-ldpi" src="res/android/splash/land-ldpi.png" />
         <!-- <splash density="land-mdpi" src="res/android/splash/land-mdpi.png" />
         <splash density="land-xhdpi" src="res/android/splash/land-xhdpi.png" />
